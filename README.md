@@ -1,2 +1,4 @@
 # shellscript-snehal
-hello
+
+how are you
+
